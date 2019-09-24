@@ -1,0 +1,31 @@
+/* Styles */
+
+body {
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+}
+
+article {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+h1 {
+	font-size: 3em;
+	line-height: 1;
+}
+
+h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -0.025em;
+}
+
+p {
+	margin: 0 0 1em 0;
+	font-family: serif;
+}
