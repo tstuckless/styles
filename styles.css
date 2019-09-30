@@ -1,8 +1,8 @@
 /* Styles */
 
 body {
-	background-color: white;
-	color: black;
+	background-color: blue;
+	color: white;
 	font-family: sans-serif;
 }
 
@@ -17,15 +17,21 @@ article {
 h1 {
 	font-size: 3em;
 	line-height: 1;
+	color: red;
 }
 
 h2 {
 	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: -0.025em;
+	color: red;
 }
 
 p {
 	margin: 0 0 1em 0;
 	font-family: serif;
+}
+
+em {
+	color: red;
 }
